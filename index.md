@@ -208,6 +208,7 @@ Well done! That’s it! You have been doing basic Python programming.
 # Good Programming Habits
 
 1. Add comments to each line of code explaining what it does. Also, any time you code a variable it is stored in memory. It is a good practice for beginners to write that out as a comment the line of code that declared the variable. 
+
 ```python
 1. >>> 
 2. >>> mysum= 40 + 2
@@ -216,6 +217,7 @@ Well done! That’s it! You have been doing basic Python programming.
 5. 42
 6. >>> #print out the variable called mysum
 ```
+
 This is more applicable for larger programs as you will see later.
 
 # Summary
